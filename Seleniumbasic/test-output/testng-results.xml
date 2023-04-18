@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10842" started-at="2023-03-09T14:15:40 IST" finished-at="2023-03-09T14:15:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10842" started-at="2023-03-09T14:15:40 IST" finished-at="2023-03-09T14:15:51 IST">
+      <class name="testNGPrograms.pageSource">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:testNGPrograms.pageSource@33723e30]" name="launchApplication" is-config="true" duration-ms="10658" started-at="2023-03-09T14:15:40 IST" finished-at="2023-03-09T14:15:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:testNGPrograms.pageSource@33723e30]" name="verifyTitle" duration-ms="13" started-at="2023-03-09T14:15:51 IST" finished-at="2023-03-09T14:15:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="verifyText()[pri:1, instance:testNGPrograms.pageSource@33723e30]" name="verifyText" duration-ms="26" started-at="2023-03-09T14:15:51 IST" finished-at="2023-03-09T14:15:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyText -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testNGPrograms.pageSource@33723e30]" name="closeBrowser" is-config="true" duration-ms="116" started-at="2023-03-09T14:15:51 IST" finished-at="2023-03-09T14:15:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testNGPrograms.pageSource -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
